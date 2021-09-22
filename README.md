@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dlucky13
+- 👀 I’m interested in JavaScript, Angular, RxJS
+- 🌱 I’m currently learning Angular
