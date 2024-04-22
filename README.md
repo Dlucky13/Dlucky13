@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Dlucky13
-- 👀 I’m interested in JavaScript, Angular, RxJS
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in JavaScript, Angular, RxJS, NestJs
+- 🌱 I’m currently learning NestJs
